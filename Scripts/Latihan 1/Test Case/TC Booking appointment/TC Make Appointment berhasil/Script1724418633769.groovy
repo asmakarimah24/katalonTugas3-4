@@ -71,5 +71,5 @@ switch (facility) {
         break
 }
 
-CustomKeywords.'com.keyword.date.keywordtask.GoToHomePage'()
+CustomKeywords.'com.keyword.homepage.keywordtask.GoToHomePage'()
 

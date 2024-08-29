@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BoxCalender</name>
+   <tag></tag>
+   <elementGuidId>d02cfb3d-6d23-4855-9116-8628f03e0a28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-left.datepicker-orient-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;«August 2024»SuMoTuWeThFrSa28293031123456789101112131415161718192021222324252627&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8413eb9e-502c-49db-bf0a-9a79b6983071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom</value>
+      <webElementGuid>a8d4cb88-1906-4c87-91a9-6b7727fc5113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>«August 2024»SuMoTuWeThFrSa28293031123456789101112131415161718192021222324252627282930311234567TodayClear«2024»JanFebMarAprMayJunJulAugSepOctNovDecTodayClear«2020-2029»201920202021202220232024202520262027202820292030TodayClear«2000-2090»199020002010202020302040205020602070208020902100TodayClear«2000-2900»190020002100220023002400250026002700280029003000TodayClear</value>
+      <webElementGuid>23225db7-c151-43f4-8e59-6f71f19620a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]</value>
+      <webElementGuid>defe4e7e-bd76-439f-93c6-c9e9345d6d4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[1]</value>
+      <webElementGuid>e1e86ffe-af51-4762-8f7a-360d6f742a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div</value>
+      <webElementGuid>11160d17-b896-4e0f-af39-85550360eb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '«August 2024»SuMoTuWeThFrSa28293031123456789101112131415161718192021222324252627282930311234567TodayClear«2024»JanFebMarAprMayJunJulAugSepOctNovDecTodayClear«2020-2029»201920202021202220232024202520262027202820292030TodayClear«2000-2090»199020002010202020302040205020602070208020902100TodayClear«2000-2900»190020002100220023002400250026002700280029003000TodayClear' or . = '«August 2024»SuMoTuWeThFrSa28293031123456789101112131415161718192021222324252627282930311234567TodayClear«2024»JanFebMarAprMayJunJulAugSepOctNovDecTodayClear«2020-2029»201920202021202220232024202520262027202820292030TodayClear«2000-2090»199020002010202020302040205020602070208020902100TodayClear«2000-2900»190020002100220023002400250026002700280029003000TodayClear')]</value>
+      <webElementGuid>d61414a3-ac5b-4e4e-99e5-4cb4f5cb24ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

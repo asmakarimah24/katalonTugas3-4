@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Make Appointment berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f5a6ef9-91e2-40ca-a67e-8d661b34a844</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91087401-28de-4d5d-8078-9f1f54462343</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01b69e13-c283-4c9e-b71e-5f76ae101221</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2538b2b-0a30-423e-8591-a366bdfd55ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8f3cf5e-e99e-4e61-8f3e-c259e43f34a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>91087401-28de-4d5d-8078-9f1f54462343</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'30/08/2024'</defaultValue>
+      <description></description>
+      <id>01b69e13-c283-4c9e-b71e-5f76ae101221</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini Comment'</defaultValue>
+      <description></description>
+      <id>d2538b2b-0a30-423e-8591-a366bdfd55ab</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>e8f3cf5e-e99e-4e61-8f3e-c259e43f34a2</id>
+      <masked>false</masked>
+      <name>hospital_redmission</name>
+   </variable>
+</TestCaseEntity>

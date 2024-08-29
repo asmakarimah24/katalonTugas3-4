@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Appointment</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>60</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>aeb969b9-c72c-463e-a1a7-1442d861f57d</testSuiteGuid>
+   <testCaseLink>
+      <guid>92db84c4-85f1-4b6f-83a3-b1fbafc6dc10</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan 1/Test Case/TC Login/TC01 Login Positif</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a8f483f3-1706-46be-aa53-315f4ff18b1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e4a5c322-429d-449e-a61c-eb5c9bd47698</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e321a8ac-035d-4717-bbfa-b8ba10b20ced</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan 1/Test Case/TC Booking appointment/TC Make Appointment berhasil</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2c1d8154-f73f-43d5-b33e-8406886741fa</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/appointment</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2c1d8154-f73f-43d5-b33e-8406886741fa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>91087401-28de-4d5d-8078-9f1f54462343</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2c1d8154-f73f-43d5-b33e-8406886741fa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>01b69e13-c283-4c9e-b71e-5f76ae101221</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2c1d8154-f73f-43d5-b33e-8406886741fa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>d2538b2b-0a30-423e-8591-a366bdfd55ab</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e8f3cf5e-e99e-4e61-8f3e-c259e43f34a2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c74837fa-8442-49d4-af52-56fd972ed90c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan 1/Test Case/TC Cek History Appointment/TC Cek History</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1955a8d8-2ef9-46b1-bc63-3ead9affcf2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan 1/Test Case/TC Logout/Logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
